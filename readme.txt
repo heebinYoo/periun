@@ -1,4 +1,5 @@
-# (AAAI26 Poster) Hee Bin Yoo, Dong-Sig Han, Jaein Kim, and Byoung-Tak Zhang. “PeriUn: Enhancing Unlearning by Selectively Forgetting Peripheral Samples”.
+# (AAAI26 Poster)“PeriUn: Enhancing Unlearning by Selectively Forgetting Peripheral Samples”.
+## Hee Bin Yoo, Dong-Sig Han, Jaein Kim, and Byoung-Tak Zhang. 
 
 1. go to setup folder and run expr_setup and model_data_setup 
 2. run train_orig and train_retrain 
